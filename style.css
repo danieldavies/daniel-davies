@@ -1,0 +1,11 @@
+.sidebar p{
+  margin: .5em 0;
+}
+
+.sidebar h3{
+  margin: 2em 0 .5em;
+}
+
+.sidebar--inner{
+  position: fixed;
+}
